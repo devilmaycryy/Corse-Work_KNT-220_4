@@ -1,0 +1,28 @@
+﻿  Source.cpp
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(549,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(549,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(553,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(553,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(557,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(557,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(559,39): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(559,36): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(797,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(797,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(801,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(801,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(805,30): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(805,27): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(807,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(807,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(858,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(858,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(862,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(862,25): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(866,29): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(866,26): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(868,38): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(868,35): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(1025,31): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Source.cpp(1032,33): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Princess and Monster.vcxproj -> C:\Users\Acer\Desktop\Corse Work_4\Princess and Monster\Debug\Princess and Monster.exe
